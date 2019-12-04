@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/val2001qa/val2001qa/_apis/build/status/val236.pipelines-java?branchName=master)](https://dev.azure.com/val2001qa/val2001qa/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
